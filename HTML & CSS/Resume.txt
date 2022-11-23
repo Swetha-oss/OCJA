@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>Resume</title>
+</head>
+<body>
+<table align="center" width="45%">
+<th bgcolor="lavender" align="left" width="45%">
+<center>
+  <font face="Calibri Light" size="8px">Swetha K</font>
+</center>
+<font face="Calibri Light" size="6px"><u>CAREER OBJECTIVE</u></font>
+<ul>
+     A career focused individual seeking a great opportunity to work in a professional environment and to keep adding values to the reputed organization that I represent and also concurrently upgrading my skills and knoelegde.
+</ul>
+
+<font face="Calibri Light" size="6px"><u>EDUCATION HISTORY</u></font>
+<br>
+<ul>
+   <h4>Sri Krishna College of Engineering and Technology, Coimbatore</h4>
+   <p>2019 - 2023 </p>
+   <p>CGPA - 9.2 </p>
+   <h4>Srsi Matriculation Higher Secondary School</h4>
+   <p>June 2018 - April 2019 </p>
+   <p>PERCENTAGE - 95% </p>
+   <h4>Srsi Matriculation Higher Secondary School/h4>
+   <p>June 2016 - May 2017 </p>
+   <p>PERCENTAGE - 81% </p>
+</ul>
+<br>
+<font face="Calibri Light" size="6px"><u>PROJECTS</u></font>
+<ul>
+    <h4>1.AI based Face Recognition System</h4>
+    <li>Security access control based on face recognition can be developed</li>
+    <h4>2.IOT based removal of colours from dyeing industry wastewater</h4>
+    <li>This system determines concentration of dyes in industrial water by measuring pH value.</li>
+</ul>
+<th align="left">
+<th bgcolor="beige" align="left">
+<style>
+img {
+  border-radius: 50%;
+}
+</style>
+<style>
+img { 
+    margin-top: 5px; 
+  }
+</style>
+<center>
+  <img src="file:///C:/Users/Swetha/Downloads/PHOTO_1.jpg" height="300" width="300" border="2" align="top">
+</center>
+<font face="Calibri Light" size="6px"><u>CONTACT</u></font>
+<br>
+<ul>
+   <li>Address: <br>7/108A, Mutharamman Kovil Street, Burkitmanagaram, <br>Tirunelveli</li>
+   <li>Phone: <br>+91 9025455670</li>
+   <li>Email: <br>swethakumar2409@gmail.com</li>
+</ul>
+<br>
+<font face="Calibri Light" size="6px"><u>STRENGTHS</u></font>
+<br>
+<ul>
+   <li>Adaptable to ever changing environment</li>
+   <li>Deligent and hard working</li>
+   <li>Critical and positive thinking</li>
+   <li>Self-Confident</li>
+</ul>
+<br>
+<font face="Calibri Light" size="6px"><u>TECHNICAL SKILLS</u></font>
+<br>
+<ul>
+   <li>Basics of C Programming</li>
+   <li>Java</li>
+   <li>SQL</li>
+</ul>
+<br>
+
+</th>
+</table>
+</body>
+</html>
